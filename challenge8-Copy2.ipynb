@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 82,
+   "execution_count": 1,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -13,7 +13,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 83,
+   "execution_count": 2,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -25,7 +25,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 84,
+   "execution_count": 3,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -602,124 +602,124 @@
        "  </thead>\n",
        "  <tbody>\n",
        "    <tr>\n",
-       "      <th>26532</th>\n",
+       "      <th>5804</th>\n",
        "      <td>False</td>\n",
        "      <td>NaN</td>\n",
        "      <td>0</td>\n",
-       "      <td>[{'id': 10751, 'name': 'Family'}]</td>\n",
+       "      <td>[{'id': 35, 'name': 'Comedy'}, {'id': 14, 'nam...</td>\n",
        "      <td>NaN</td>\n",
-       "      <td>31242</td>\n",
-       "      <td>tt0308443</td>\n",
+       "      <td>11852</td>\n",
+       "      <td>tt0302640</td>\n",
        "      <td>en</td>\n",
-       "      <td>Just for Kicks</td>\n",
-       "      <td>Best known as the production designer on most ...</td>\n",
+       "      <td>The Hot Chick</td>\n",
+       "      <td>Not only is Jessica Spencer (Rachel McAdams) t...</td>\n",
        "      <td>...</td>\n",
-       "      <td>2003-01-01</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>92.0</td>\n",
+       "      <td>2002-12-13</td>\n",
+       "      <td>35081550.0</td>\n",
+       "      <td>104.0</td>\n",
        "      <td>[{'iso_639_1': 'en', 'name': 'English'}]</td>\n",
        "      <td>Released</td>\n",
-       "      <td>NaN</td>\n",
-       "      <td>Just 4 Kicks</td>\n",
+       "      <td>The hottest chick in town just switched bodies...</td>\n",
+       "      <td>The Hot Chick</td>\n",
        "      <td>False</td>\n",
-       "      <td>4.0</td>\n",
+       "      <td>5.5</td>\n",
+       "      <td>431.0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>39358</th>\n",
+       "      <td>False</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>5000000</td>\n",
+       "      <td>[{'id': 35, 'name': 'Comedy'}, {'id': 10749, '...</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>53010</td>\n",
+       "      <td>tt1667100</td>\n",
+       "      <td>fr</td>\n",
+       "      <td>La Chance de ma vie</td>\n",
+       "      <td>Julien Monnier has a serious problem. Though h...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>2011-01-05</td>\n",
+       "      <td>0.0</td>\n",
+       "      <td>87.0</td>\n",
+       "      <td>[{'iso_639_1': 'fr', 'name': 'Français'}, {'is...</td>\n",
+       "      <td>Released</td>\n",
+       "      <td>This guy is a disaster or...</td>\n",
+       "      <td>La Chance de ma vie</td>\n",
+       "      <td>False</td>\n",
+       "      <td>5.6</td>\n",
+       "      <td>79.0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>17881</th>\n",
+       "      <td>False</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>0</td>\n",
+       "      <td>[{'id': 18, 'name': 'Drama'}]</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>148327</td>\n",
+       "      <td>tt0435225</td>\n",
+       "      <td>en</td>\n",
+       "      <td>La Neuvaine</td>\n",
+       "      <td>Two men bond as one recovers from an attack an...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>2005-08-26</td>\n",
+       "      <td>0.0</td>\n",
+       "      <td>97.0</td>\n",
+       "      <td>[{'iso_639_1': 'fr', 'name': 'Français'}]</td>\n",
+       "      <td>Released</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>Novena</td>\n",
+       "      <td>False</td>\n",
+       "      <td>5.0</td>\n",
        "      <td>1.0</td>\n",
        "    </tr>\n",
        "    <tr>\n",
-       "      <th>8818</th>\n",
+       "      <th>1693</th>\n",
        "      <td>False</td>\n",
        "      <td>NaN</td>\n",
        "      <td>0</td>\n",
-       "      <td>[{'id': 35, 'name': 'Comedy'}]</td>\n",
+       "      <td>[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name...</td>\n",
        "      <td>NaN</td>\n",
-       "      <td>23096</td>\n",
-       "      <td>tt0085450</td>\n",
+       "      <td>26269</td>\n",
+       "      <td>tt0119594</td>\n",
        "      <td>en</td>\n",
-       "      <td>Doctor Detroit</td>\n",
-       "      <td>A shy but gentle man named Clifford Skridlow i...</td>\n",
+       "      <td>Twilight</td>\n",
+       "      <td>A retired ex-cop and private detective gets mi...</td>\n",
        "      <td>...</td>\n",
-       "      <td>1983-05-06</td>\n",
+       "      <td>1998-03-06</td>\n",
        "      <td>0.0</td>\n",
-       "      <td>89.0</td>\n",
+       "      <td>94.0</td>\n",
        "      <td>[{'iso_639_1': 'en', 'name': 'English'}]</td>\n",
        "      <td>Released</td>\n",
-       "      <td>He's making the world safe for insanity.</td>\n",
-       "      <td>Doctor Detroit</td>\n",
+       "      <td>Some people can buy their way out of anything....</td>\n",
+       "      <td>Twilight</td>\n",
        "      <td>False</td>\n",
-       "      <td>4.7</td>\n",
-       "      <td>20.0</td>\n",
+       "      <td>6.1</td>\n",
+       "      <td>36.0</td>\n",
        "    </tr>\n",
        "    <tr>\n",
-       "      <th>25766</th>\n",
+       "      <th>45321</th>\n",
        "      <td>False</td>\n",
        "      <td>NaN</td>\n",
-       "      <td>12000</td>\n",
-       "      <td>[{'id': 10751, 'name': 'Family'}]</td>\n",
+       "      <td>0</td>\n",
+       "      <td>[{'id': 18, 'name': 'Drama'}]</td>\n",
        "      <td>NaN</td>\n",
-       "      <td>135832</td>\n",
-       "      <td>tt2397521</td>\n",
-       "      <td>de</td>\n",
-       "      <td>Der Mondmann</td>\n",
-       "      <td>One night, a shooting star appears, whizzing t...</td>\n",
+       "      <td>167267</td>\n",
+       "      <td>tt0065043</td>\n",
+       "      <td>pl</td>\n",
+       "      <td>Struktura krysztalu</td>\n",
+       "      <td>Physicist John worked as a meteorologist. He l...</td>\n",
        "      <td>...</td>\n",
-       "      <td>2012-12-19</td>\n",
+       "      <td>1969-10-14</td>\n",
        "      <td>0.0</td>\n",
-       "      <td>95.0</td>\n",
-       "      <td>[{'iso_639_1': 'de', 'name': 'Deutsch'}]</td>\n",
+       "      <td>74.0</td>\n",
+       "      <td>[{'iso_639_1': 'pl', 'name': 'Polski'}]</td>\n",
        "      <td>Released</td>\n",
        "      <td>NaN</td>\n",
-       "      <td>Moon Man</td>\n",
+       "      <td>The Structure of Crystals</td>\n",
        "      <td>False</td>\n",
        "      <td>6.8</td>\n",
-       "      <td>9.0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>31901</th>\n",
-       "      <td>False</td>\n",
-       "      <td>NaN</td>\n",
-       "      <td>0</td>\n",
-       "      <td>[{'id': 27, 'name': 'Horror'}]</td>\n",
-       "      <td>http://www.exte-movie.jp/</td>\n",
-       "      <td>21784</td>\n",
-       "      <td>tt0904049</td>\n",
-       "      <td>cs</td>\n",
-       "      <td>Ekusute</td>\n",
-       "      <td>An aspiring hair dresser (Kuriyama) becomes th...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>2007-02-17</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>108.0</td>\n",
-       "      <td>[{'iso_639_1': 'ja', 'name': '日本語'}]</td>\n",
-       "      <td>Released</td>\n",
-       "      <td>NaN</td>\n",
-       "      <td>Exte: Hair Extensions</td>\n",
-       "      <td>False</td>\n",
-       "      <td>6.0</td>\n",
-       "      <td>25.0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>4875</th>\n",
-       "      <td>False</td>\n",
-       "      <td>NaN</td>\n",
-       "      <td>0</td>\n",
-       "      <td>[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'n...</td>\n",
-       "      <td>NaN</td>\n",
-       "      <td>43136</td>\n",
-       "      <td>tt0052182</td>\n",
-       "      <td>en</td>\n",
-       "      <td>Separate Tables</td>\n",
-       "      <td>It's the off-season at the lonely Beauregard H...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>1958-12-18</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>100.0</td>\n",
-       "      <td>[{'iso_639_1': 'en', 'name': 'English'}]</td>\n",
-       "      <td>Released</td>\n",
-       "      <td>The international stage success seen by more t...</td>\n",
-       "      <td>Separate Tables</td>\n",
-       "      <td>False</td>\n",
-       "      <td>6.3</td>\n",
-       "      <td>29.0</td>\n",
+       "      <td>4.0</td>\n",
        "    </tr>\n",
        "  </tbody>\n",
        "</table>\n",
@@ -727,61 +727,54 @@
        "</div>"
       ],
       "text/plain": [
-       "       adult belongs_to_collection budget  \\\n",
-       "26532  False                   NaN      0   \n",
-       "8818   False                   NaN      0   \n",
-       "25766  False                   NaN  12000   \n",
-       "31901  False                   NaN      0   \n",
-       "4875   False                   NaN      0   \n",
+       "       adult belongs_to_collection   budget  \\\n",
+       "5804   False                   NaN        0   \n",
+       "39358  False                   NaN  5000000   \n",
+       "17881  False                   NaN        0   \n",
+       "1693   False                   NaN        0   \n",
+       "45321  False                   NaN        0   \n",
        "\n",
-       "                                                  genres  \\\n",
-       "26532                  [{'id': 10751, 'name': 'Family'}]   \n",
-       "8818                      [{'id': 35, 'name': 'Comedy'}]   \n",
-       "25766                  [{'id': 10751, 'name': 'Family'}]   \n",
-       "31901                     [{'id': 27, 'name': 'Horror'}]   \n",
-       "4875   [{'id': 18, 'name': 'Drama'}, {'id': 10749, 'n...   \n",
+       "                                                  genres homepage      id  \\\n",
+       "5804   [{'id': 35, 'name': 'Comedy'}, {'id': 14, 'nam...      NaN   11852   \n",
+       "39358  [{'id': 35, 'name': 'Comedy'}, {'id': 10749, '...      NaN   53010   \n",
+       "17881                      [{'id': 18, 'name': 'Drama'}]      NaN  148327   \n",
+       "1693   [{'id': 18, 'name': 'Drama'}, {'id': 80, 'name...      NaN   26269   \n",
+       "45321                      [{'id': 18, 'name': 'Drama'}]      NaN  167267   \n",
        "\n",
-       "                        homepage      id    imdb_id original_language  \\\n",
-       "26532                        NaN   31242  tt0308443                en   \n",
-       "8818                         NaN   23096  tt0085450                en   \n",
-       "25766                        NaN  135832  tt2397521                de   \n",
-       "31901  http://www.exte-movie.jp/   21784  tt0904049                cs   \n",
-       "4875                         NaN   43136  tt0052182                en   \n",
+       "         imdb_id original_language       original_title  \\\n",
+       "5804   tt0302640                en        The Hot Chick   \n",
+       "39358  tt1667100                fr  La Chance de ma vie   \n",
+       "17881  tt0435225                en          La Neuvaine   \n",
+       "1693   tt0119594                en             Twilight   \n",
+       "45321  tt0065043                pl  Struktura krysztalu   \n",
        "\n",
-       "        original_title                                           overview  \\\n",
-       "26532   Just for Kicks  Best known as the production designer on most ...   \n",
-       "8818    Doctor Detroit  A shy but gentle man named Clifford Skridlow i...   \n",
-       "25766     Der Mondmann  One night, a shooting star appears, whizzing t...   \n",
-       "31901          Ekusute  An aspiring hair dresser (Kuriyama) becomes th...   \n",
-       "4875   Separate Tables  It's the off-season at the lonely Beauregard H...   \n",
+       "                                                overview  ... release_date  \\\n",
+       "5804   Not only is Jessica Spencer (Rachel McAdams) t...  ...   2002-12-13   \n",
+       "39358  Julien Monnier has a serious problem. Though h...  ...   2011-01-05   \n",
+       "17881  Two men bond as one recovers from an attack an...  ...   2005-08-26   \n",
+       "1693   A retired ex-cop and private detective gets mi...  ...   1998-03-06   \n",
+       "45321  Physicist John worked as a meteorologist. He l...  ...   1969-10-14   \n",
        "\n",
-       "       ... release_date revenue runtime  \\\n",
-       "26532  ...   2003-01-01     0.0    92.0   \n",
-       "8818   ...   1983-05-06     0.0    89.0   \n",
-       "25766  ...   2012-12-19     0.0    95.0   \n",
-       "31901  ...   2007-02-17     0.0   108.0   \n",
-       "4875   ...   1958-12-18     0.0   100.0   \n",
+       "          revenue runtime                                   spoken_languages  \\\n",
+       "5804   35081550.0   104.0           [{'iso_639_1': 'en', 'name': 'English'}]   \n",
+       "39358         0.0    87.0  [{'iso_639_1': 'fr', 'name': 'Français'}, {'is...   \n",
+       "17881         0.0    97.0          [{'iso_639_1': 'fr', 'name': 'Français'}]   \n",
+       "1693          0.0    94.0           [{'iso_639_1': 'en', 'name': 'English'}]   \n",
+       "45321         0.0    74.0            [{'iso_639_1': 'pl', 'name': 'Polski'}]   \n",
        "\n",
-       "                               spoken_languages    status  \\\n",
-       "26532  [{'iso_639_1': 'en', 'name': 'English'}]  Released   \n",
-       "8818   [{'iso_639_1': 'en', 'name': 'English'}]  Released   \n",
-       "25766  [{'iso_639_1': 'de', 'name': 'Deutsch'}]  Released   \n",
-       "31901      [{'iso_639_1': 'ja', 'name': '日本語'}]  Released   \n",
-       "4875   [{'iso_639_1': 'en', 'name': 'English'}]  Released   \n",
+       "         status                                            tagline  \\\n",
+       "5804   Released  The hottest chick in town just switched bodies...   \n",
+       "39358  Released                       This guy is a disaster or...   \n",
+       "17881  Released                                                NaN   \n",
+       "1693   Released  Some people can buy their way out of anything....   \n",
+       "45321  Released                                                NaN   \n",
        "\n",
-       "                                                 tagline  \\\n",
-       "26532                                                NaN   \n",
-       "8818            He's making the world safe for insanity.   \n",
-       "25766                                                NaN   \n",
-       "31901                                                NaN   \n",
-       "4875   The international stage success seen by more t...   \n",
-       "\n",
-       "                       title  video vote_average vote_count  \n",
-       "26532           Just 4 Kicks  False          4.0        1.0  \n",
-       "8818          Doctor Detroit  False          4.7       20.0  \n",
-       "25766               Moon Man  False          6.8        9.0  \n",
-       "31901  Exte: Hair Extensions  False          6.0       25.0  \n",
-       "4875         Separate Tables  False          6.3       29.0  \n",
+       "                           title  video vote_average vote_count  \n",
+       "5804               The Hot Chick  False          5.5      431.0  \n",
+       "39358        La Chance de ma vie  False          5.6       79.0  \n",
+       "17881                     Novena  False          5.0        1.0  \n",
+       "1693                    Twilight  False          6.1       36.0  \n",
+       "45321  The Structure of Crystals  False          6.8        4.0  \n",
        "\n",
        "[5 rows x 24 columns]"
       ]
@@ -3086,7 +3079,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 36,
+   "execution_count": 35,
    "metadata": {},
    "outputs": [
     {
@@ -3095,7 +3088,7 @@
        "1544"
       ]
      },
-     "execution_count": 36,
+     "execution_count": 35,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3107,7 +3100,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 37,
+   "execution_count": 36,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3117,7 +3110,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 39,
+   "execution_count": 37,
    "metadata": {},
    "outputs": [
     {
@@ -3173,7 +3166,7 @@
        "Name: Box office, dtype: object"
       ]
      },
-     "execution_count": 39,
+     "execution_count": 37,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3184,7 +3177,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 41,
+   "execution_count": 38,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3194,7 +3187,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 42,
+   "execution_count": 39,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3203,7 +3196,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 44,
+   "execution_count": 40,
    "metadata": {},
    "outputs": [
     {
@@ -3297,7 +3290,7 @@
        "[5485 rows x 1 columns]"
       ]
      },
-     "execution_count": 44,
+     "execution_count": 40,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3308,7 +3301,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 47,
+   "execution_count": 41,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3360,7 +3353,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 49,
+   "execution_count": 42,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3369,7 +3362,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 51,
+   "execution_count": 43,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3378,7 +3371,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 53,
+   "execution_count": 44,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3387,7 +3380,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 54,
+   "execution_count": 45,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3396,7 +3389,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 55,
+   "execution_count": 46,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3405,7 +3398,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 61,
+   "execution_count": 47,
    "metadata": {},
    "outputs": [
     {
@@ -3414,7 +3407,7 @@
        "4340"
       ]
      },
-     "execution_count": 61,
+     "execution_count": 47,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3426,7 +3419,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 63,
+   "execution_count": 48,
    "metadata": {},
    "outputs": [
     {
@@ -3435,7 +3428,7 @@
        "324"
       ]
      },
-     "execution_count": 63,
+     "execution_count": 48,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3447,7 +3440,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 82,
+   "execution_count": 49,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3457,7 +3450,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 83,
+   "execution_count": 50,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3466,7 +3459,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 84,
+   "execution_count": 51,
    "metadata": {},
    "outputs": [
     {
@@ -3560,7 +3553,7 @@
        "[4738 rows x 1 columns]"
       ]
      },
-     "execution_count": 84,
+     "execution_count": 51,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3571,7 +3564,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 85,
+   "execution_count": 52,
    "metadata": {},
    "outputs": [
     {
@@ -3580,6 +3573,8 @@
        "136                         Unknown\n",
        "204     60 million Norwegian Kroner\n",
        "478                         Unknown\n",
+       "973             $34 [3] [4] million\n",
+       "1126               $120 [4] million\n",
        "1226                        Unknown\n",
        "1278                            HBO\n",
        "1374                     £6,000,000\n",
@@ -3592,17 +3587,21 @@
        "1973                     ₤2,300,874\n",
        "2451                     ₤6,350,000\n",
        "3144                   € 40 million\n",
+       "3360               $150 [6] million\n",
        "3418                        $218.32\n",
        "3802                   £4.2 million\n",
        "3906                            N/A\n",
        "3959                    760,000 USD\n",
        "4470                       19 crore\n",
        "4641                    £17 million\n",
+       "5034              $$200 [4] million\n",
+       "5055           $155 [2] [3] million\n",
+       "5419                $40 [4] million\n",
        "5424                            N/A\n",
        "5447                     £4 million\n",
        "5671                    €14 million\n",
        "5687                   $ dead link]\n",
-       "6385                  £ 12 million \n",
+       "6385               £ 12 million [3]\n",
        "6593                     £3 million\n",
        "6821                  £12.9 million\n",
        "6843                      3.5 crore\n",
@@ -3611,7 +3610,7 @@
        "Name: Budget, dtype: object"
       ]
      },
-     "execution_count": 85,
+     "execution_count": 52,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3624,7 +3623,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 87,
+   "execution_count": 53,
    "metadata": {},
    "outputs": [
     {
@@ -3633,6 +3632,8 @@
        "136                         Unknown\n",
        "204     60 million Norwegian Kroner\n",
        "478                         Unknown\n",
+       "973                     $34 million\n",
+       "1126                   $120 million\n",
        "1226                        Unknown\n",
        "1278                            HBO\n",
        "1374                     £6,000,000\n",
@@ -3645,12 +3646,16 @@
        "1973                     ₤2,300,874\n",
        "2451                     ₤6,350,000\n",
        "3144                   € 40 million\n",
+       "3360                   $150 million\n",
        "3418                        $218.32\n",
        "3802                   £4.2 million\n",
        "3906                            N/A\n",
        "3959                    760,000 USD\n",
        "4470                       19 crore\n",
        "4641                    £17 million\n",
+       "5034                  $$200 million\n",
+       "5055                   $155 million\n",
+       "5419                    $40 million\n",
        "5424                            N/A\n",
        "5447                     £4 million\n",
        "5671                    €14 million\n",
@@ -3664,7 +3669,7 @@
        "Name: Budget, dtype: object"
       ]
      },
-     "execution_count": 87,
+     "execution_count": 53,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3676,7 +3681,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 88,
+   "execution_count": 54,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3685,7 +3690,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 90,
+   "execution_count": 55,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3694,7 +3699,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 92,
+   "execution_count": 56,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3703,7 +3708,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 93,
+   "execution_count": 57,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3715,7 +3720,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 94,
+   "execution_count": 58,
    "metadata": {},
    "outputs": [
     {
@@ -3809,7 +3814,7 @@
        "[7001 rows x 1 columns]"
       ]
      },
-     "execution_count": 94,
+     "execution_count": 58,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3820,7 +3825,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 95,
+   "execution_count": 59,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3829,7 +3834,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 97,
+   "execution_count": 60,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3838,7 +3843,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 99,
+   "execution_count": 61,
    "metadata": {},
    "outputs": [
     {
@@ -3847,7 +3852,7 @@
        "6528"
       ]
      },
-     "execution_count": 99,
+     "execution_count": 61,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3858,7 +3863,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 100,
+   "execution_count": 62,
    "metadata": {},
    "outputs": [
     {
@@ -3878,7 +3883,7 @@
        "Name: Running time, Length: 366, dtype: object"
       ]
      },
-     "execution_count": 100,
+     "execution_count": 62,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3889,7 +3894,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 101,
+   "execution_count": 63,
    "metadata": {},
    "outputs": [
     {
@@ -3898,7 +3903,7 @@
        "6877"
       ]
      },
-     "execution_count": 101,
+     "execution_count": 63,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3909,7 +3914,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 102,
+   "execution_count": 64,
    "metadata": {},
    "outputs": [
     {
@@ -3935,7 +3940,7 @@
        "Name: Running time, dtype: object"
       ]
      },
-     "execution_count": 102,
+     "execution_count": 64,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3946,7 +3951,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 104,
+   "execution_count": 65,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3955,7 +3960,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 105,
+   "execution_count": 66,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3964,7 +3969,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 107,
+   "execution_count": 67,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3973,7 +3978,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 109,
+   "execution_count": 68,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -3982,7 +3987,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 110,
+   "execution_count": 69,
    "metadata": {},
    "outputs": [
     {
@@ -4015,7 +4020,7 @@
        "dtype: object"
       ]
      },
-     "execution_count": 110,
+     "execution_count": 69,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -4026,7 +4031,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 118,
+   "execution_count": 70,
    "metadata": {},
    "outputs": [
     {
@@ -4034,13 +4039,13 @@
       "text/plain": [
        "False                                                                                                                             45454\n",
        "True                                                                                                                                  9\n",
-       " Rune Balot goes to a casino connected to the October corporation to try to wrap up her case once and for all.                        1\n",
-       " - Written by Ørnås                                                                                                                   1\n",
        " Avalanche Sharks tells the story of a bikini contest that turns into a horrifying affair when it is hit by a shark avalanche.        1\n",
+       " - Written by Ørnås                                                                                                                   1\n",
+       " Rune Balot goes to a casino connected to the October corporation to try to wrap up her case once and for all.                        1\n",
        "Name: adult, dtype: int64"
       ]
      },
-     "execution_count": 118,
+     "execution_count": 70,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -4051,7 +4056,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 119,
+   "execution_count": 71,
    "metadata": {},
    "outputs": [
     {
@@ -4215,7 +4220,7 @@
        "[3 rows x 24 columns]"
       ]
      },
-     "execution_count": 119,
+     "execution_count": 71,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -4226,7 +4231,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 120,
+   "execution_count": 72,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -4235,7 +4240,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 121,
+   "execution_count": 73,
    "metadata": {},
    "outputs": [
     {
@@ -4246,7 +4251,7 @@
        "Name: video, dtype: int64"
       ]
      },
-     "execution_count": 121,
+     "execution_count": 73,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -4257,7 +4262,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 122,
+   "execution_count": 74,
    "metadata": {},
    "outputs": [
     {
@@ -4277,7 +4282,7 @@
        "Name: video, Length: 45454, dtype: object"
       ]
      },
-     "execution_count": 122,
+     "execution_count": 74,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -4288,7 +4293,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 123,
+   "execution_count": 75,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -4297,7 +4302,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 125,
+   "execution_count": 76,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -4308,7 +4313,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 126,
+   "execution_count": 77,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -4317,7 +4322,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 127,
+   "execution_count": 78,
    "metadata": {},
    "outputs": [
     {
@@ -4344,7 +4349,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 128,
+   "execution_count": 79,
    "metadata": {},
    "outputs": [
     {
@@ -4364,7 +4369,7 @@
        "Name: timestamp, Length: 26024289, dtype: datetime64[ns]"
       ]
      },
-     "execution_count": 128,
+     "execution_count": 79,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -4375,7 +4380,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 129,
+   "execution_count": 80,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -4384,7 +4389,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 131,
+   "execution_count": 81,
    "metadata": {},
    "outputs": [
     {
@@ -4401,7 +4406,7 @@
        "Name: rating, dtype: float64"
       ]
      },
-     "execution_count": 131,
+     "execution_count": 81,
      "metadata": {},
      "output_type": "execute_result"
     },
@@ -4425,7 +4430,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 149,
+   "execution_count": 82,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -4434,7 +4439,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 151,
+   "execution_count": 83,
    "metadata": {},
    "outputs": [
     {
@@ -4553,7 +4558,7 @@
        "[438 rows x 2 columns]"
       ]
      },
-     "execution_count": 151,
+     "execution_count": 83,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -4564,7 +4569,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 152,
+   "execution_count": 84,
    "metadata": {},
    "outputs": [
     {
@@ -4625,7 +4630,7 @@
        "[0 rows x 44 columns]"
       ]
      },
-     "execution_count": 152,
+     "execution_count": 84,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -4636,7 +4641,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 153,
+   "execution_count": 85,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -4645,7 +4650,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 155,
+   "execution_count": 86,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -4654,16 +4659,16 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 158,
+   "execution_count": 87,
    "metadata": {},
    "outputs": [
     {
      "data": {
       "text/plain": [
-       "<matplotlib.axes._subplots.AxesSubplot at 0x1a20f03a9b0>"
+       "<matplotlib.axes._subplots.AxesSubplot at 0x2060d8c5780>"
       ]
      },
-     "execution_count": 158,
+     "execution_count": 87,
      "metadata": {},
      "output_type": "execute_result"
     },
@@ -4686,7 +4691,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 159,
+   "execution_count": 88,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -4695,16 +4700,16 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 161,
+   "execution_count": 89,
    "metadata": {},
    "outputs": [
     {
      "data": {
       "text/plain": [
-       "<matplotlib.axes._subplots.AxesSubplot at 0x1a20efe4400>"
+       "<matplotlib.axes._subplots.AxesSubplot at 0x2060d86ca20>"
       ]
      },
-     "execution_count": 161,
+     "execution_count": 89,
      "metadata": {},
      "output_type": "execute_result"
     },
@@ -4727,7 +4732,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 162,
+   "execution_count": 90,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -4736,16 +4741,16 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 163,
+   "execution_count": 91,
    "metadata": {},
    "outputs": [
     {
      "data": {
       "text/plain": [
-       "<matplotlib.axes._subplots.AxesSubplot at 0x1a20e780eb8>"
+       "<matplotlib.axes._subplots.AxesSubplot at 0x2060e26e0f0>"
       ]
      },
-     "execution_count": 163,
+     "execution_count": 91,
      "metadata": {},
      "output_type": "execute_result"
     },
@@ -4768,7 +4773,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 164,
+   "execution_count": 92,
    "metadata": {},
    "outputs": [
     {
@@ -4873,7 +4878,7 @@
        "[1 rows x 43 columns]"
       ]
      },
-     "execution_count": 164,
+     "execution_count": 92,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -4884,7 +4889,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 165,
+   "execution_count": 93,
    "metadata": {},
    "outputs": [
     {
@@ -4893,7 +4898,7 @@
        "Int64Index([3607], dtype='int64')"
       ]
      },
-     "execution_count": 165,
+     "execution_count": 93,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -4904,7 +4909,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 166,
+   "execution_count": 94,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -4913,7 +4918,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 167,
+   "execution_count": 95,
    "metadata": {},
    "outputs": [
     {
@@ -5351,7 +5356,7 @@
        "[11 rows x 43 columns]"
       ]
      },
-     "execution_count": 167,
+     "execution_count": 95,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -5362,7 +5367,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 168,
+   "execution_count": 96,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -5371,7 +5376,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 169,
+   "execution_count": 97,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -5380,7 +5385,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 170,
+   "execution_count": 98,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -5389,7 +5394,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 171,
+   "execution_count": 99,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -5398,7 +5403,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 172,
+   "execution_count": 100,
    "metadata": {},
    "outputs": [
     {
@@ -5638,7 +5643,7 @@
        "[5 rows x 39 columns]"
       ]
      },
-     "execution_count": 172,
+     "execution_count": 100,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -5649,53 +5654,27 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 173,
-   "metadata": {},
-   "outputs": [
-    {
-     "ename": "TypeError",
-     "evalue": "unhashable type: 'list'",
-     "output_type": "error",
-     "traceback": [
-      "\u001b[1;31m---------------------------------------------------------------------------\u001b[0m",
-      "\u001b[1;31mTypeError\u001b[0m                                 Traceback (most recent call last)",
-      "\u001b[1;32m<ipython-input-173-6cfa49d0b73e>\u001b[0m in \u001b[0;36m<module>\u001b[1;34m\u001b[0m\n\u001b[1;32m----> 1\u001b[1;33m \u001b[0mmovies_df\u001b[0m\u001b[1;33m[\u001b[0m\u001b[1;34m'Language'\u001b[0m\u001b[1;33m]\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mvalue_counts\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m",
-      "\u001b[1;32m~\\Anaconda3\\envs\\PythonData\\lib\\site-packages\\pandas\\core\\base.py\u001b[0m in \u001b[0;36mvalue_counts\u001b[1;34m(self, normalize, sort, ascending, bins, dropna)\u001b[0m\n\u001b[0;32m   1242\u001b[0m             \u001b[0mnormalize\u001b[0m\u001b[1;33m=\u001b[0m\u001b[0mnormalize\u001b[0m\u001b[1;33m,\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m   1243\u001b[0m             \u001b[0mbins\u001b[0m\u001b[1;33m=\u001b[0m\u001b[0mbins\u001b[0m\u001b[1;33m,\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m-> 1244\u001b[1;33m             \u001b[0mdropna\u001b[0m\u001b[1;33m=\u001b[0m\u001b[0mdropna\u001b[0m\u001b[1;33m,\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m   1245\u001b[0m         )\n\u001b[0;32m   1246\u001b[0m         \u001b[1;32mreturn\u001b[0m \u001b[0mresult\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
-      "\u001b[1;32m~\\Anaconda3\\envs\\PythonData\\lib\\site-packages\\pandas\\core\\algorithms.py\u001b[0m in \u001b[0;36mvalue_counts\u001b[1;34m(values, sort, ascending, normalize, bins, dropna)\u001b[0m\n\u001b[0;32m    715\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    716\u001b[0m         \u001b[1;32melse\u001b[0m\u001b[1;33m:\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 717\u001b[1;33m             \u001b[0mkeys\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mcounts\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0m_value_counts_arraylike\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mvalues\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mdropna\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    718\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    719\u001b[0m             \u001b[0mresult\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0mSeries\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mcounts\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mindex\u001b[0m\u001b[1;33m=\u001b[0m\u001b[0mkeys\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mname\u001b[0m\u001b[1;33m=\u001b[0m\u001b[0mname\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
-      "\u001b[1;32m~\\Anaconda3\\envs\\PythonData\\lib\\site-packages\\pandas\\core\\algorithms.py\u001b[0m in \u001b[0;36m_value_counts_arraylike\u001b[1;34m(values, dropna)\u001b[0m\n\u001b[0;32m    759\u001b[0m         \u001b[1;31m# TODO: handle uint8\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    760\u001b[0m         \u001b[0mf\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0mgetattr\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mhtable\u001b[0m\u001b[1;33m,\u001b[0m \u001b[1;34mf\"value_count_{ndtype}\"\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m--> 761\u001b[1;33m         \u001b[0mkeys\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mcounts\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0mf\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mvalues\u001b[0m\u001b[1;33m,\u001b[0m \u001b[0mdropna\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m    762\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m    763\u001b[0m         \u001b[0mmask\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0misna\u001b[0m\u001b[1;33m(\u001b[0m\u001b[0mvalues\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
-      "\u001b[1;32mpandas\\_libs\\hashtable_func_helper.pxi\u001b[0m in \u001b[0;36mpandas._libs.hashtable.value_count_object\u001b[1;34m()\u001b[0m\n",
-      "\u001b[1;32mpandas\\_libs\\hashtable_func_helper.pxi\u001b[0m in \u001b[0;36mpandas._libs.hashtable.value_count_object\u001b[1;34m()\u001b[0m\n",
-      "\u001b[1;31mTypeError\u001b[0m: unhashable type: 'list'"
-     ]
-    }
-   ],
-   "source": [
-    "movies_df['Language'].value_counts()"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 174,
+   "execution_count": 101,
    "metadata": {},
    "outputs": [
     {
      "data": {
       "text/plain": [
-       "English                           5479\n",
-       "NaN                                134\n",
-       "(English, Spanish)                  68\n",
-       "(English, French)                   35\n",
-       "(English, Japanese)                 25\n",
-       "                                  ... \n",
-       "(English, Russian, Ukrainian)        1\n",
-       "(English, Greek)                     1\n",
-       "(English, Yiddish)                   1\n",
-       "Yucatec Mayan                        1\n",
-       "(English, Italian, Portuguese)       1\n",
+       "English                                  5479\n",
+       "NaN                                       134\n",
+       "(English, Spanish)                         68\n",
+       "(English, French)                          35\n",
+       "(English, Japanese)                        25\n",
+       "                                         ... \n",
+       "(English, Spanish, French, Afrikaans)       1\n",
+       "(Egyptian Arabic, English)                  1\n",
+       "(German, /, English)                        1\n",
+       "Various languages                           1\n",
+       "(Syriac, Aramaic, English, Italian)         1\n",
        "Name: Language, Length: 198, dtype: int64"
       ]
      },
-     "execution_count": 174,
+     "execution_count": 101,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -5706,7 +5685,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 175,
+   "execution_count": 102,
    "metadata": {},
    "outputs": [
     {
@@ -5718,22 +5697,22 @@
        "it       8\n",
        "de       6\n",
        "zh       4\n",
-       "pt       4\n",
        "ja       4\n",
-       "da       2\n",
+       "pt       4\n",
        "hi       2\n",
-       "he       1\n",
+       "da       2\n",
        "ar       1\n",
-       "ru       1\n",
-       "tr       1\n",
-       "cn       1\n",
-       "ab       1\n",
-       "sv       1\n",
        "ko       1\n",
+       "he       1\n",
+       "tr       1\n",
+       "sv       1\n",
+       "ab       1\n",
+       "cn       1\n",
+       "ru       1\n",
        "Name: original_language, dtype: int64"
       ]
      },
-     "execution_count": 175,
+     "execution_count": 102,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -5744,7 +5723,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 176,
+   "execution_count": 103,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -5753,7 +5732,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 177,
+   "execution_count": 104,
    "metadata": {},
    "outputs": [
     {
@@ -5872,7 +5851,7 @@
        "[6051 rows x 2 columns]"
       ]
      },
-     "execution_count": 177,
+     "execution_count": 104,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -5883,7 +5862,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 178,
+   "execution_count": 105,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -5892,7 +5871,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 179,
+   "execution_count": 106,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -5905,7 +5884,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 185,
+   "execution_count": 107,
    "metadata": {},
    "outputs": [
     {
@@ -5927,7 +5906,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 186,
+   "execution_count": 108,
    "metadata": {},
    "outputs": [
     {
@@ -5937,7 +5916,7 @@
        "Name: video, dtype: int64"
       ]
      },
-     "execution_count": 186,
+     "execution_count": 108,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -5948,7 +5927,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 187,
+   "execution_count": 109,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -5957,7 +5936,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 190,
+   "execution_count": 110,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -5971,7 +5950,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 193,
+   "execution_count": 111,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -5995,7 +5974,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 194,
+   "execution_count": 112,
    "metadata": {},
    "outputs": [
     {
@@ -6498,7 +6477,7 @@
        "[6051 rows x 31 columns]"
       ]
      },
-     "execution_count": 194,
+     "execution_count": 112,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -6509,7 +6488,508 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 85,
+   "execution_count": 113,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import re"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 114,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "starring=movies_df['starring']\n",
+    "starring = starring.apply(lambda a:', '.join(a) if type(a) == list else a)\n",
+    "movies_df['starring']=starring"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 115,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "cinematography=movies_df['cinematography']\n",
+    "cinematography = cinematography.apply(lambda a:', '.join(a) if type(a) == list else a)\n",
+    "movies_df['cinematography']=cinematography"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 116,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "editors=movies_df['editors']\n",
+    "editors = editors.apply(lambda a:', '.join(a) if type(a) == list else a)\n",
+    "movies_df['editors']=editors"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 117,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "writers=movies_df['writers']\n",
+    "writers = writers.apply(lambda a:', '.join(a) if type(a) == list else a)\n",
+    "movies_df['writers']=writers"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 118,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "composers=movies_df['composers']\n",
+    "composers = composers.apply(lambda a:', '.join(a) if type(a) == list else a)\n",
+    "movies_df['composers']=composers"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 119,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "country=movies_df['country']\n",
+    "country = country.apply(lambda a:', '.join(a) if type(a) == list else a)\n",
+    "movies_df['country']=country"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 120,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "producers=movies_df['producers']\n",
+    "producers = producers.apply(lambda a:', '.join(a) if type(a) == list else a)\n",
+    "movies_df['producers']=producers"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 121,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "director=movies_df['director']\n",
+    "director = director.apply(lambda a:', '.join(a) if type(a) == list else a)\n",
+    "movies_df['director']=director"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 122,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "based_on=movies_df['based_on']\n",
+    "based_on = based_on.apply(lambda z:' '.join(z) if type(z) == list else z)\n",
+    "movies_df['based_on']=based_on"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 123,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "production_companies=movies_df['production_companies']\n",
+    "production = production_companies.str.replace(r'^\\[|\\]$','', regex=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 124,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "prod = production.str.replace(r'^\\{\\'name\\': \\'|\\}|\\{|\\'name\\': ','', regex=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 125,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "prod_co = prod.str.replace(r'\\', \\'id\\': ', ', id = ', regex=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 126,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "prod_comp = prod_co.str.replace(r'\\, \\'','; ', regex=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 127,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "production_co = prod_comp.str.replace(r'\\':',' =',regex=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 128,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "production_cos = production_co.str.replace(r'; i', ', i', regex=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 129,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "collection=movies_df['belongs_to_collection']\n",
+    "collect = collection.str.replace(r'^\\{\\'id\\': ','collection_id = ', regex=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 130,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "collector = collect.str.replace(r'\\'name\\': \\'|\\'\\}|\\}','',regex=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 131,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "poster = collector.str.replace(r'\\', \\'',', ',regex=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 132,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "path = poster.str.replace(r'\\': \\'', ' = ', regex=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 133,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "name=path.str.replace(r'\\'name\\': ','',regex=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 134,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "h=name.str.replace(r'h\\':','h = ',regex=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 135,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "p=h.str.replace(r'\\'p', 'p', regex=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 136,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "b=p.str.replace(r'\\'b', 'b', regex=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 137,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "movies_df['belongs_to_collection']=b"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 138,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "genre=movies_df['genres']\n",
+    "genre=genre.str.replace(r'^\\[|\\]$','', regex=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 139,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "genres=genre.str.replace(r'^\\{\\'id\\':','genre_id =',regex = True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 140,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "named=genres.str.replace(r'\\'name\\': \\'|\\'\\}|\\{\\'','',regex = True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 141,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "genre_id=named.str.replace(r'\\, id\\':','; genre_id =', regex = True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 142,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "movies_df['genres']=genre_id"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 143,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "spoken=movies_df['spoken_languages']\n",
+    "spoken=spoken.str.replace(r'^\\[|\\]$','', regex=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 144,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "talk=spoken.str.replace(r'^\\{\\'iso_639_1\\': \\'','',regex = True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 145,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "lang=talk.str.replace(r'\\'\\, \\'name\\'|\\'\\}|\\{\\'iso_639_1\\': |\\'','',regex = True)\n",
+    "movies_df['spoken_languages']=lang"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 146,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "countries=movies_df['production_countries']\n",
+    "countries=countries.str.replace(r'^\\[|\\]$','', regex=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 147,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "places=countries.str.replace(r'^\\{\\'iso_3166_1\\': \\'','',regex = True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 148,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "land=places.str.replace(r'\\'\\, \\'name\\'|\\'\\}|\\{\\'iso_3166_1\\': |\\'','',regex = True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 149,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "movies_df['production_countries']=land"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 150,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "movies_df['distributor'] = movies_df['distributor'].astype(str)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 151,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "distrib=movies_df['distributor']"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 152,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "distrib=distrib.str.replace(r'^\\[|\\]$','', regex=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 153,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "distribute=distrib.str.replace(r'\\'\\, \\'\\(',' (', regex=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 154,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "distributed=distribute.str.replace(r'\\'|\\[1\\]\\'','', regex=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 155,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "distributors=distributed.str.replace(r'^nan','',regex=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 156,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "movies_df['distributor']=distributors"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 157,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "production_co=movies_df['production_companies']"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 158,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "production_co=production_co.str.replace(r'^\\[|\\]$','', regex=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 159,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "production_comp=production_co.str.replace(r'^\\{\\'name\\': \\'|}$','',regex = True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 160,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "prodco=production_comp.str.replace(r'\\'\\, \\'',', ',regex=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 161,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "prodcomp=prodco.str.replace(r'\\': ',' = ',regex=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 162,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "prodfirm=prodcomp.str.replace(r'\\}, {\\'name = \\'',', ',regex=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 163,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "productor= prodfirm.str.replace(r'\\}, \\{\\'name =',\", \",regex=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 164,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "productors=productor.str.replace(r' \\'id',' id', regex=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 165,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "movies_df['production_companies']=productors"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 166,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -6518,7 +6998,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 86,
+   "execution_count": 167,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -6527,7 +7007,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 87,
+   "execution_count": 168,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -6536,78 +7016,226 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 88,
-   "metadata": {},
-   "outputs": [
-    {
-     "ename": "AttributeError",
-     "evalue": "'Engine' object has no attribute 'cursor'",
-     "output_type": "error",
-     "traceback": [
-      "\u001b[1;31m---------------------------------------------------------------------------\u001b[0m",
-      "\u001b[1;31mAttributeError\u001b[0m                            Traceback (most recent call last)",
-      "\u001b[1;32m<ipython-input-88-4d52c75c0145>\u001b[0m in \u001b[0;36m<module>\u001b[1;34m\u001b[0m\n\u001b[1;32m----> 1\u001b[1;33m \u001b[0mcur\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0mengine\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mcursor\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m",
-      "\u001b[1;31mAttributeError\u001b[0m: 'Engine' object has no attribute 'cursor'"
-     ]
-    }
-   ],
-   "source": [
-    "cur = engine.cursor()"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 222,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "movies_df.to_sql(name='movies', con=engine)"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 226,
+   "execution_count": 169,
    "metadata": {},
    "outputs": [
     {
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "importing rows 0 to 1000000...Done. 230.9550199508667 total seconds elapsed\n",
-      "importing rows 1000000 to 2000000...Done. 461.5177311897278 total seconds elapsed\n",
-      "importing rows 2000000 to 3000000...Done. 693.1717126369476 total seconds elapsed\n",
-      "importing rows 3000000 to 4000000...Done. 920.937340259552 total seconds elapsed\n",
-      "importing rows 4000000 to 5000000...Done. 1145.9810409545898 total seconds elapsed\n",
-      "importing rows 5000000 to 6000000...Done. 1378.7901649475098 total seconds elapsed\n",
-      "importing rows 6000000 to 7000000...Done. 1607.3388154506683 total seconds elapsed\n",
-      "importing rows 7000000 to 8000000...Done. 1830.5118234157562 total seconds elapsed\n",
-      "importing rows 8000000 to 9000000...Done. 2066.0714254379272 total seconds elapsed\n",
-      "importing rows 9000000 to 10000000...Done. 2310.987541437149 total seconds elapsed\n",
-      "importing rows 10000000 to 11000000...Done. 2568.371745109558 total seconds elapsed\n",
-      "importing rows 11000000 to 12000000...Done. 2803.4312245845795 total seconds elapsed\n",
-      "importing rows 12000000 to 13000000...Done. 3037.8720989227295 total seconds elapsed\n",
-      "importing rows 13000000 to 14000000...Done. 3272.976632118225 total seconds elapsed\n",
-      "importing rows 14000000 to 15000000...Done. 3505.394458055496 total seconds elapsed\n",
-      "importing rows 15000000 to 16000000...Done. 3740.931573152542 total seconds elapsed\n",
-      "importing rows 16000000 to 17000000...Done. 3989.0654191970825 total seconds elapsed\n",
-      "importing rows 17000000 to 18000000...Done. 4222.575421571732 total seconds elapsed\n",
-      "importing rows 18000000 to 19000000...Done. 4456.4185795784 total seconds elapsed\n",
-      "importing rows 19000000 to 20000000...Done. 4686.844444513321 total seconds elapsed\n",
-      "importing rows 20000000 to 21000000...Done. 4917.296303510666 total seconds elapsed\n",
-      "importing rows 21000000 to 22000000...Done. 5149.225410461426 total seconds elapsed\n",
-      "importing rows 22000000 to 23000000...Done. 5375.258403301239 total seconds elapsed\n",
-      "importing rows 23000000 to 24000000...Done. 5605.523194074631 total seconds elapsed\n",
-      "importing rows 24000000 to 25000000...Done. 5836.916403532028 total seconds elapsed\n",
-      "importing rows 25000000 to 26000000...Done. 6071.697447061539 total seconds elapsed\n",
-      "importing rows 26000000 to 26024289...Done. 6076.665023326874 total seconds elapsed\n"
+      "Success!\n",
+      "relation \"movies\" does not exist\n",
+      "LINE 1: DELETE FROM movies\n",
+      "                    ^\n",
+      "\n"
      ]
     }
    ],
    "source": [
+    "import psycopg2\n",
+    "\n",
+    "# connect to the PostgreSQL database\n",
+    "try:\n",
+    "    con = psycopg2.connect(database=\"movie_data\", user=\"postgres\", password=\"Duke#1984\", host=\"127.0.0.1\", port=\"5432\")\n",
+    "    print('Success!')\n",
+    "\n",
+    "except Exception as e:\n",
+    "    print(\"I am unable to connect to the database: \", e)\n",
+    "\n",
+    "cur = con.cursor()\n",
+    "\n",
+    "try:\n",
+    "    cur.execute(\"DELETE FROM movies\")\n",
+    "    con.commit()\n",
+    "except Exception as e:\n",
+    "    print(e)\n",
+    "    \n",
+    "cur.close()\n",
+    "con.close()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 170,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Success!\n",
+      "relation \"ratings\" does not exist\n",
+      "LINE 1: DELETE FROM ratings\n",
+      "                    ^\n",
+      "\n"
+     ]
+    }
+   ],
+   "source": [
+    "# connect to the PostgreSQL database\n",
+    "try:\n",
+    "    con = psycopg2.connect(database=\"movie_data\", user=\"postgres\", password=\"Duke#1984\", host=\"127.0.0.1\", port=\"5432\")\n",
+    "    print('Success!')\n",
+    "\n",
+    "except Exception as e:\n",
+    "    print(\"I am unable to connect to the database: \", e)\n",
+    "\n",
+    "cur = con.cursor()\n",
+    "\n",
+    "try:\n",
+    "    cur.execute(\"DELETE FROM ratings\")\n",
+    "    con.commit()\n",
+    "except Exception as e:\n",
+    "    print(e)\n",
+    "    \n",
+    "cur.close()\n",
+    "con.close()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 171,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "file = pd.read_csv(f'{file_dir}ratings.csv',skiprows=1, names=[\"userid\", \"movienum\", \"movierating\", \"timestamp\"])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 172,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>userid</th>\n",
+       "      <th>movienum</th>\n",
+       "      <th>movierating</th>\n",
+       "      <th>timestamp</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>1</td>\n",
+       "      <td>110</td>\n",
+       "      <td>1.0</td>\n",
+       "      <td>1425941529</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>1</td>\n",
+       "      <td>147</td>\n",
+       "      <td>4.5</td>\n",
+       "      <td>1425942435</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>1</td>\n",
+       "      <td>858</td>\n",
+       "      <td>5.0</td>\n",
+       "      <td>1425941523</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>1</td>\n",
+       "      <td>1221</td>\n",
+       "      <td>5.0</td>\n",
+       "      <td>1425941546</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>1</td>\n",
+       "      <td>1246</td>\n",
+       "      <td>5.0</td>\n",
+       "      <td>1425941556</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "   userid  movienum  movierating   timestamp\n",
+       "0       1       110          1.0  1425941529\n",
+       "1       1       147          4.5  1425942435\n",
+       "2       1       858          5.0  1425941523\n",
+       "3       1      1221          5.0  1425941546\n",
+       "4       1      1246          5.0  1425941556"
+      ]
+     },
+     "execution_count": 172,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "file.head()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 174,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "importing rows 0 to 1000000...Done. 218.42738842964172 total seconds elapsed\n",
+      "importing rows 1000000 to 2000000...Done. 445.8429915904999 total seconds elapsed\n",
+      "importing rows 2000000 to 3000000...Done. 678.5342206954956 total seconds elapsed\n",
+      "importing rows 3000000 to 4000000...Done. 902.5157241821289 total seconds elapsed\n",
+      "importing rows 4000000 to 5000000...Done. 1130.3753192424774 total seconds elapsed\n",
+      "importing rows 5000000 to 6000000...Done. 1357.0089347362518 total seconds elapsed\n",
+      "importing rows 6000000 to 7000000...Done. 1577.485469341278 total seconds elapsed\n",
+      "importing rows 7000000 to 8000000...Done. 1798.0468187332153 total seconds elapsed\n",
+      "importing rows 8000000 to 9000000...Done. 2015.9341340065002 total seconds elapsed\n",
+      "importing rows 9000000 to 10000000...Done. 2231.666461467743 total seconds elapsed\n",
+      "importing rows 10000000 to 11000000...Done. 2447.815247774124 total seconds elapsed\n",
+      "importing rows 11000000 to 12000000...Done. 2662.3367533683777 total seconds elapsed\n",
+      "importing rows 12000000 to 13000000...Done. 2878.7307908535004 total seconds elapsed\n",
+      "importing rows 13000000 to 14000000...Done. 3097.178807258606 total seconds elapsed\n",
+      "importing rows 14000000 to 15000000...Done. 3312.3516387939453 total seconds elapsed\n",
+      "importing rows 15000000 to 16000000...Done. 3532.110926389694 total seconds elapsed\n",
+      "importing rows 16000000 to 17000000...Done. 3747.230852365494 total seconds elapsed\n",
+      "importing rows 17000000 to 18000000...Done. 3976.043886899948 total seconds elapsed\n",
+      "importing rows 18000000 to 19000000...Done. 4197.985221147537 total seconds elapsed\n",
+      "importing rows 19000000 to 20000000...Done. 4425.890944242477 total seconds elapsed\n",
+      "importing rows 20000000 to 21000000...Done. 4641.939113616943 total seconds elapsed\n",
+      "importing rows 21000000 to 22000000...Done. 4871.528817653656 total seconds elapsed\n",
+      "importing rows 22000000 to 23000000...Done. 5095.958784580231 total seconds elapsed\n",
+      "importing rows 23000000 to 24000000...Done. 5324.58069729805 total seconds elapsed\n",
+      "importing rows 24000000 to 25000000...Done. 5550.604609966278 total seconds elapsed\n",
+      "importing rows 25000000 to 26000000...Done. 5771.600751399994 total seconds elapsed\n",
+      "importing rows 26000000 to 26024289...Done. 5777.016071796417 total seconds elapsed\n"
+     ]
+    }
+   ],
+   "source": [
+    "movies_df.to_sql(name='movies', con=engine, if_exists='append')\n",
     "rows_imported = 0\n",
     "# get the start_time from time.time()\n",
     "start_time = time.time()\n",
-    "for data in pd.read_csv(f'{file_dir}ratings.csv', chunksize=1000000):\n",
+    "for data in pd.read_csv(f'{file_dir}ratings.csv', skiprows=1, names=[\"userid\", \"movienum\", \"movierating\", \"timestamp\"], chunksize=1000000):\n",
     "    print(f'importing rows {rows_imported} to {rows_imported + len(data)}...', end='')\n",
     "    data.to_sql(name='ratings', con=engine, if_exists='append')\n",
     "    rows_imported += len(data)\n",
@@ -6618,69 +7246,247 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 92,
+   "execution_count": 175,
    "metadata": {},
    "outputs": [
     {
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "Database opened successfully\n"
+      "Success!\n"
      ]
     }
    ],
    "source": [
-    "import psycopg2\n",
+    "try:\n",
+    "    con = psycopg2.connect(database=\"movie_data\", user=\"postgres\", password=\"Duke#1984\", host=\"127.0.0.1\", port=\"5432\")\n",
+    "    print('Success!')\n",
     "\n",
-    "con = psycopg2.connect(database=\"movie_data\", user=\"postgres\", password=\"Duke#1984\", host=\"127.0.0.1\", port=\"5432\")\n",
-    "\n",
-    "print(\"Database opened successfully\")"
+    "except Exception as e:\n",
+    "    print(\"I am unable to connect to the database: \", e)"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 91,
-   "metadata": {},
-   "outputs": [
-    {
-     "ename": "AttributeError",
-     "evalue": "'str' object has no attribute 'cursor'",
-     "output_type": "error",
-     "traceback": [
-      "\u001b[1;31m---------------------------------------------------------------------------\u001b[0m",
-      "\u001b[1;31mAttributeError\u001b[0m                            Traceback (most recent call last)",
-      "\u001b[1;32m<ipython-input-91-ecfefeab6ecb>\u001b[0m in \u001b[0;36m<module>\u001b[1;34m\u001b[0m\n\u001b[0;32m      1\u001b[0m \u001b[1;31m# Obtain a database cursor\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[1;32m----> 2\u001b[1;33m \u001b[0mpostgresCursor\u001b[0m \u001b[1;33m=\u001b[0m \u001b[0mpostgresConnection\u001b[0m\u001b[1;33m.\u001b[0m\u001b[0mcursor\u001b[0m\u001b[1;33m(\u001b[0m\u001b[1;33m)\u001b[0m\u001b[1;33m;\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0m\u001b[0;32m      3\u001b[0m \u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m      4\u001b[0m \u001b[1;31m# Select all rows to be deleted\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n\u001b[0;32m      5\u001b[0m \u001b[0mselectStatement\u001b[0m \u001b[1;33m=\u001b[0m \u001b[1;34m\"SELECT * FROM movie_data.movies\"\u001b[0m\u001b[1;33m;\u001b[0m\u001b[1;33m\u001b[0m\u001b[1;33m\u001b[0m\u001b[0m\n",
-      "\u001b[1;31mAttributeError\u001b[0m: 'str' object has no attribute 'cursor'"
-     ]
-    }
-   ],
-   "source": [
-    "# Obtain a database cursor\n",
-    "postgresCursor = postgresConnection.cursor();\n",
-    "\n",
-    "# Select all rows to be deleted\n",
-    "selectStatement = \"SELECT * FROM movie_data.movies\";\n",
-    "postgresCursor.execute(selectStatement);\n",
-    "rows = postgresCursor.fetchall();\n",
-    "\n",
-    "# Provide a valid SQL statement. In this case a DELETE statement\n",
-    "deleteStatement = \"DELETE FROM movies\";\n",
-    "\n",
-    "# Delete rows\n",
-    "postgresCursor.execute(deleteStatement);\n",
-    "\n",
-    "# Close the database cursor and connection\n",
-    "postgresCursor.close();\n",
-    "postgresConnection.close();"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 94,
+   "execution_count": 176,
    "metadata": {},
    "outputs": [],
    "source": [
-    "%load_ext sql"
+    "# A function that takes in a PostgreSQL query, combining our Wiki, Kaggle, and MovieLens sources and outputs a pandas database \n",
+    "cur=con.cursor\n",
+    "def create_pandas_table(sql_query, database = con):\n",
+    "    table = pd.read_sql_query(sql_query, database)\n",
+    "    return table"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 197,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>kaggle_id</th>\n",
+       "      <th>title</th>\n",
+       "      <th>count</th>\n",
+       "      <th>?column?</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>318</td>\n",
+       "      <td>The Million Dollar Hotel</td>\n",
+       "      <td>91082</td>\n",
+       "      <td>4.429015</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>296</td>\n",
+       "      <td>Terminator 3: Rise of the Machines</td>\n",
+       "      <td>87901</td>\n",
+       "      <td>4.169975</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>480</td>\n",
+       "      <td>Monsoon Wedding</td>\n",
+       "      <td>74355</td>\n",
+       "      <td>3.660238</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>2959</td>\n",
+       "      <td>License to Wed</td>\n",
+       "      <td>60024</td>\n",
+       "      <td>4.230716</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>858</td>\n",
+       "      <td>Sleepless in Seattle</td>\n",
+       "      <td>57070</td>\n",
+       "      <td>4.339811</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "   kaggle_id                               title  count  ?column?\n",
+       "0        318            The Million Dollar Hotel  91082  4.429015\n",
+       "1        296  Terminator 3: Rise of the Machines  87901  4.169975\n",
+       "2        480                     Monsoon Wedding  74355  3.660238\n",
+       "3       2959                      License to Wed  60024  4.230716\n",
+       "4        858                Sleepless in Seattle  57070  4.339811"
+      ]
+     },
+     "execution_count": 197,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "add_ratings = create_pandas_table(\"SELECT movies.kaggle_id, movies.title, COUNT(ratings.movierating), (sum(ratings.movierating)/(COUNT(ratings.movierating))) FROM movies LEFT JOIN ratings ON movies.kaggle_id=ratings.movienum GROUP BY movies.kaggle_id, ratings.movienum, movies.title ORDER BY COUNT(ratings.movierating) DESC\")\n",
+    "add_ratings.head()\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 198,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>kaggle_id</th>\n",
+       "      <th>title</th>\n",
+       "      <th>num_of_ratings</th>\n",
+       "      <th>avg_rating</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>318</td>\n",
+       "      <td>The Million Dollar Hotel</td>\n",
+       "      <td>91082</td>\n",
+       "      <td>4.429015</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>296</td>\n",
+       "      <td>Terminator 3: Rise of the Machines</td>\n",
+       "      <td>87901</td>\n",
+       "      <td>4.169975</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>480</td>\n",
+       "      <td>Monsoon Wedding</td>\n",
+       "      <td>74355</td>\n",
+       "      <td>3.660238</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>2959</td>\n",
+       "      <td>License to Wed</td>\n",
+       "      <td>60024</td>\n",
+       "      <td>4.230716</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>858</td>\n",
+       "      <td>Sleepless in Seattle</td>\n",
+       "      <td>57070</td>\n",
+       "      <td>4.339811</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "   kaggle_id                               title  num_of_ratings  avg_rating\n",
+       "0        318            The Million Dollar Hotel           91082    4.429015\n",
+       "1        296  Terminator 3: Rise of the Machines           87901    4.169975\n",
+       "2        480                     Monsoon Wedding           74355    3.660238\n",
+       "3       2959                      License to Wed           60024    4.230716\n",
+       "4        858                Sleepless in Seattle           57070    4.339811"
+      ]
+     },
+     "execution_count": 198,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "add_ratings.rename(columns = {'count': 'num_of_ratings', '?column?':'avg_rating'}, inplace = True)\n",
+    "add_ratings.head()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 208,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "movies_with_ratings = pd.merge(add_ratings, movies_df, on=\"kaggle_id\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 209,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "del movies_with_ratings['title_y']"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 212,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "movies_with_ratings = movies_with_ratings.rename(columns={'title_x': 'title'})\n",
+    "movies_with_ratings.to_csv('movies_rated.csv')"
    ]
   },
   {
