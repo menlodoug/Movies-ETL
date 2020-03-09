@@ -7,3 +7,7 @@ Once that was done, I automated the ETL pipeline load process in Jupyter,  setti
 The next step was to access the table data from PostGres using a try-except block to check that I was able to connect with PostGres using psycopg2 and then alerting me to issues (if encountered) connecting and/or errors arising.
 
 Once the data was back into Jupyter, I set up a SQL query to match the ratings data to the cleaned set of movies and calculating a count of times a movie was rated as well as the average rating per movie.  I then added the summary rating information to the movie list through a dataframe merge.  I exported the merged dataframe to a csv file called "movies_rated.csv", which you'll find in my Github repository.  The code from my Jupyter notebook has been saved to the challenge.py file, per the instructions in the challenge.  It may also be found in the repository (along with the Jupyter notebook, titled challenge8.ipynb).
+
+
+
+P.S. - added csv files (movies_metadata.csv and ratings.csv) via LFS upload at 5:15 pm PST on Sunday, March 8.
